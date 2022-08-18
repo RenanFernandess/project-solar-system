@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('./images/background.png');
+  color: rgb(212, 212, 212);
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 25px auto;
+  padding: 20px;
+  width: 95%;
+}
